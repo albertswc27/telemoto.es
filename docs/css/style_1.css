@@ -219,7 +219,12 @@ section .mbr-background-video-preview {
 .media-container-row .media-size-item {
   width: 400px;
 }
-
+  @media only screen and (max-width: 768px) {
+    #hero-15-uBDLO63Xfz {
+      background-size: cover;
+      background-position: center;
+    }
+  }
 .media-container-column {
   display: flex;
   flex-direction: column;
