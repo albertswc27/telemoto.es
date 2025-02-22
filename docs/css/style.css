@@ -1,3 +1,10 @@
+
+  @media only screen and (max-width: 768px) {
+    #hero-15-uBDLO63Xfz {
+      background-size: cover;
+      background-position: center;
+    }
+  }
 .navbar-dropdown {
   left: 0;
   padding: 0;
