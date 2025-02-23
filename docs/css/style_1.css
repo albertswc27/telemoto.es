@@ -100,7 +100,6 @@ a, a:hover {
 }
 
 h1,
-h2,
 h3,
 h4,
 h5,
@@ -161,6 +160,12 @@ section .mbr-background-video-preview {
   color: #ffffff;
 }
 
+h2 {
+  font-size: 2.25rem;
+  color: #ffffff
+
+}
+
 .mbr-black {
   color: #111111;
 }
@@ -219,6 +224,7 @@ section .mbr-background-video-preview {
 .media-container-row .media-size-item {
   width: 400px;
 }
+
 .media-container-column {
   display: flex;
   flex-direction: column;
